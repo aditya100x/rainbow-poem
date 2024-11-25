@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Ponies
 
 purple 
 pink 
@@ -7,6 +7,7 @@ blue
 indigo
 Green
 Unicorn
+Ponies
 Yellow
 red
 
